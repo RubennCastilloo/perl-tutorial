@@ -5,6 +5,11 @@ use warnings;
 
 #Escalares
 my $nombre = "Ruben";
+$nombre = "Pepe";
+
+if($nombre == "epe"){
+    print "Es igual\n";
+}
 
 print $nombre . "\n";
 
